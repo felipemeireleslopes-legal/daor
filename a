@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>felipe lopes</title>
+    <style>
+        header {
+            background-color: #FFFFFF;
+            color:#973939;
+            text-align: center;
+            max-width: 800px;
+            margin:0 auto;
+            padding: 1px;
+            
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>exemplo</h1>
+    </header>
+    
+</body>
+</html>                 
